@@ -3,9 +3,9 @@ title: github
 subtitle: |-
   ![](/images/github-mark.png)
 
-  The company GitHub ID:
+  # _**The company GitHub ID:**_
 
-  https://github.com/AzarudeenRoshan/food-mart-copy-01
+  ## _**https://github.com/AzarudeenRoshan/food-mart-copy-01**_
 content_img:
   enabled: false
   url: '#'
