@@ -1,12 +1,7 @@
 ---
 title: home
 banner:
-  actions:
-    - is_huge: true
-      is_primary: false
-      is_scrolly: false
-      label: Join Us
-      url: /no-sidebar
+  actions: []
   subtitle: >-
     _**“To Compare and provide the finest grocery product in online, within the
     budget.”**_
