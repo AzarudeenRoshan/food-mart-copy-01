@@ -36,7 +36,7 @@ menu:
     - identifier: Marketing
       name: Marketing
       url: '#'
-      weight: 3
+      weight: 5
     - identifier: Finance
       name: Finance
       url: '#'
@@ -47,7 +47,7 @@ menu:
       weight: 7
     - identifier: Vision
       name: Vision
-      url: /vision
+      url: '#'
       weight: 1
 disableKinds:
   - RSS
