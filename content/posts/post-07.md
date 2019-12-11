@@ -6,7 +6,7 @@ content_img:
   enabled: true
   path: /images/fast-shipping-line-icon-delivery-truck-vector-19992585.jpg
   url: '#'
-alt_img: ''
+alt_img: /images/fast-shipping-line-icon-delivery-truck-vector-19992585.jpg
 sidebar:
   enabled: false
   side: left
