@@ -32,11 +32,11 @@ menu:
     - identifier: Strategies
       name: Strategies
       url: '#'
-      weight: 4
+      weight: 3
     - identifier: Risk
       name: Risk
       url: '#'
-      weight: 5
+      weight: 4
     - identifier: Marketing
       name: Marketing
       url: '#'
@@ -44,11 +44,11 @@ menu:
     - identifier: Finance
       name: Finance
       url: '#'
-      weight: 1
+      weight: 6
     - identifier: GitHub
       name: GitHub
       url: '#'
-      weight: 5
+      weight: 7
 disableKinds:
   - RSS
   - taxonomy
