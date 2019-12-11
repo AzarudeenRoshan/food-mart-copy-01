@@ -35,7 +35,7 @@ menu:
       weight: 4
     - identifier: Marketing
       name: Marketing
-      url: '#'
+      url: /marketing
       weight: 5
     - identifier: Finance
       name: Finance
