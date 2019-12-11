@@ -43,7 +43,7 @@ menu:
       weight: 6
     - identifier: GitHub
       name: GitHub
-      url: '#'
+      url: /github
       weight: 7
     - identifier: Vision
       name: Vision
