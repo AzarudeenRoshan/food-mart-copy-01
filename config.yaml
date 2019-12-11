@@ -39,7 +39,7 @@ menu:
       weight: 5
     - identifier: Finance
       name: Finance
-      url: '#'
+      url: /finance
       weight: 6
     - identifier: GitHub
       name: GitHub
