@@ -49,13 +49,10 @@ sections:
     component: cta.html
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+      _**“Shopping, Return policy, and shipping are made simple, With the help
+      of detailed review list of product search for the finest fresh grocery
+      product in near location."**_
+    title: Value Proposition
     type: cta
   - component: posts.html
     section_id: posts
