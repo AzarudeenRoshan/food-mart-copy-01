@@ -35,8 +35,7 @@ menu:
       weight: 4
     - identifier: Marketing
       name: Marketing
-      url: >-
-        https://food-mart-03e53.netlify.com/admin/#/collections/page/entries/marketing-strategy
+      url: /marketing-strategy
       weight: 5
     - identifier: Finance
       name: Finance
