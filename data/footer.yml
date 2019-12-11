@@ -5,10 +5,8 @@ about:
       label: Learn More
       url: /no-sidebar
   enabled: true
-  text: >-
-    Lorem ipsum dolor sit amet interdum mollis sapien. Sed amet ac lorem ipsum
-    interdum tempus sagittis lorem tempus.
-  title: Integer vitae sed feugiat
+  text: Visit our nearby store to know more about our product details and offers!
+  title: 'Visit Us:'
 contact_methods:
   enabled: true
   methods_col1:
