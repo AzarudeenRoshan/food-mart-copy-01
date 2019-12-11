@@ -27,7 +27,7 @@ menu:
   main:
     - identifier: Strategies
       name: Strategies
-      url: /contact
+      url: /strategies
       weight: 3
     - identifier: Risk
       name: Risk
