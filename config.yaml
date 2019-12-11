@@ -47,7 +47,7 @@ menu:
       weight: 7
     - identifier: Vision
       name: Vision
-      url: /vision of the company
+      url: /visionofthecompany
       weight: 1
 disableKinds:
   - RSS
