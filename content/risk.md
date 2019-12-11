@@ -20,7 +20,7 @@ subtitle: >-
   the venture
 
 
-  ![](/images/hhaha.png "Grocery Sale Statistics for the Quarter")
+  ![](/images/hhaha1.png "Grocery Sale Statistics for the Quarter")
 
 
   # **_TECHNOLOGY RISK:_**
@@ -53,6 +53,9 @@ subtitle: >-
 
 
   ➢ Power outage will lead to grocery product damage
+
+
+  ![](/images/hhaha2.png)
 
 
   # **_Market Risk:_**
@@ -105,6 +108,12 @@ subtitle: >-
   uncertainty in international marketing. If
    there is a problem in selling the product in another country, because that country must have prohibited the 
   particular product so this may lead to violation of law
+
+
+  ![](/images/hhaha3.png)
+
+
+  ![]()
 
 
   # **_Financial risk:_**
