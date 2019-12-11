@@ -69,6 +69,10 @@ menu:
       parent: submenu
       url: '#'
       weight: 4
+    - identifier: Vision
+      name: Vision
+      url: '#'
+      weight: 3
 disableKinds:
   - RSS
   - taxonomy
