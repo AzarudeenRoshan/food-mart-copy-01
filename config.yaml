@@ -25,10 +25,6 @@ menu:
       url: 'https://www.stackbit.com'
       weight: 4
   main:
-    - identifier: Vision
-      name: Vision
-      url: '#'
-      weight: 2
     - identifier: Strategies
       name: Strategies
       url: '#'
@@ -49,6 +45,10 @@ menu:
       name: GitHub
       url: '#'
       weight: 7
+    - identifier: Vision
+      name: Vision
+      url: '#'
+      weight: 1
 disableKinds:
   - RSS
   - taxonomy
