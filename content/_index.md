@@ -9,36 +9,26 @@ banner:
 sections:
   - component: features.html
     features:
-      - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+      - description: "our company will be socially responsible for packing the grocery product in \ran eco-friendly cover so that plastic can be avoided. our company primary motto is to provide a fresh \rgrocery product to the customer within the promised time, so by this our company provide a fresh grocery \rproduct to the customer since company cares about the customer health."
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
-      - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+        title: Socially Responsible
+      - description: "My company will be an Early Mover as this is very new unique e-marketing company which compare the \rparticular grocery product in different online grocery website and as well as in the local retail shop when \rcustomer select the particular product that particular grocery product is compared between the stores"
         icon:
           enabled: true
           icon: fa-pie-chart
           style: style2
-        title: Phasellus libero eu sed augue gravida
+        title: Early Mover
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          Compare the grocery product in different website to provide the best
+          grocery product within the budget of the customer
         icon:
           enabled: true
           icon: fa-cube
           style: style3
-        title: Lacus ultricies sagittis mi dui dapibus
+        title: 'Compare the Product '
     section_id: features
     type: features
   - actions:
@@ -56,8 +46,8 @@ sections:
     type: cta
   - component: posts.html
     section_id: posts
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-    title: Convallis amet interdum
+    subtitle: Food Mart provide the following services to the customer.
+    title: Why Food Mart ?
     type: posts
 menu:
   main:
