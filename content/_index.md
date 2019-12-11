@@ -8,8 +8,8 @@ banner:
       label: Learn More
       url: /no-sidebar
   subtitle: >-
-    ## _**“To Compare and provide the finest grocery product in online, within
-    the budget.”**_
+    _**“To Compare and provide the finest grocery product in online, within the
+    budget.”**_
   title: Be Unique! Skip the crowd.
 sections:
   - component: features.html
