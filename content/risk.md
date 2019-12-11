@@ -113,9 +113,6 @@ subtitle: >-
   ![](/images/hhaha3.png)
 
 
-  ![]()
-
-
   # **_Financial risk:_**
 
 
