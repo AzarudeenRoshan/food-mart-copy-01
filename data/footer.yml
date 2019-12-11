@@ -19,7 +19,7 @@ contact_methods:
       title: Phone
       type: contact_with_text
     - icon: fa-envelope-o
-      text: info@untitled.tld
+      text: foodmart@untitled.tld
       title: Email
       type: contact_with_link
       url: '#'
