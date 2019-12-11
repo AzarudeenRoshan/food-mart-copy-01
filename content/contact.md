@@ -1,5 +1,5 @@
 ---
-title: contact
+title: VALUE PROPOSITION
 subtitle: >-
   ## _**As the people are busy in their day to day life so it is hard to go to
   different shop to buy the grocery product in their location and many shops are
